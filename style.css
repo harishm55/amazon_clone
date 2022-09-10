@@ -1,0 +1,72 @@
+body{
+    background-color: #d3d6d9;
+}
+.nav2{
+    background-color: #232F3E;
+}
+.nav2 a{
+    font-weight: 500;
+}
+.nav2 a,.nav1 a{
+    text-decoration: none;
+    font-size:13px;
+}
+.dd{
+    border-bottom-right-radius:0px;
+    border-top-right-radius:0px;
+}
+option{
+   font-size: 80%;
+}
+.search{
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+}
+.searchbtn{
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+.carousel-control-next, .carousel-control-prev{
+    top:-35%;
+    width:5%;
+}
+.signin{
+    border-radius:10px;
+}
+.cards{
+    position: absolute;
+    left: 0px;
+    top: 350px;
+    z-index: 1;
+  }
+  .car{
+      height: 600px;
+  }
+  .des_img{
+    text-align: center;
+    padding-left: 11%;
+    margin: 2%;
+  }
+  .tex_cen{
+    text-align: center;
+  }
+  .signinbtn{
+      padding-left: 115px;
+      padding-right:115px;
+      padding-bottom: 5px;
+      padding-top: 5px;
+      font-weight: 700;
+      text-decoration: none;
+      color: black;
+      background-color: rgb(240, 131, 15);
+      border-radius:5px;
+  }
+  .toppage{
+    color: azure;
+    background-color: rgb(75, 82, 98);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
